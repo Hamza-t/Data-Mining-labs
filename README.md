@@ -10,12 +10,7 @@ This repository contains 2 different labs about data mining.Each lab introduces 
 * [Colab](https://colab.research.google.com/).
 
 
-
-## Getting Started
-
-In order to run these labs and extend it you need to follow some few steps : 
-
-### Prerequisites
+## Prerequisites
 
 * Make sure that **Python** is installed on your operating system. (download from ```https://www.python.org/downloads/```)
 (Jupyter is more of a feature)
